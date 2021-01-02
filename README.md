@@ -16,16 +16,11 @@
 </p>
 
 <p align="left">
-  💌 Fell free to contact any time: ⤵️
-</p>
+  <a href="marcosmrs8@hotmail.com" alt="Outook">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:marcosmrs8@hotmail.com" /></a>
+  <a href="https://www.linkedin.com/in/marcos-rodrigo" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marcos-rodrigo" /></a>
-
-
-
+ 
 </p>  
