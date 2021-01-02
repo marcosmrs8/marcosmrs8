@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  <a href="marcosmrs8@hotmail.com" alt="Outook">
+  <a href="mailto:marcosmrs8@hotmail.com" alt="Outook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/marcos-rodrigo" alt="Linkedin">
