@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="computer-image">
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="computer-image">
 
 <p align="left"> 
   Hey! i'm Rodrigo. Im a <strong>Developer</strong>.<br>
